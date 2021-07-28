@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> Disqord </h1>
+    <h1> Diqnod </h1>
     <p> An asynchronous Discord API wrapper for .NET 5 that aims to make Discord bot development simple and enjoyable without needless boilerplate. </p>
     <ul style="list-style-position: inside">
         <li>
